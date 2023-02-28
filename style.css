@@ -1,0 +1,168 @@
+body{
+    font-style: Bookman Old Style;
+}
+.block1{
+    background-color: rgb(237, 63, 104);
+    
+}
+.container-fluid{
+    padding: 1.5% 15%;
+    
+}
+.navbar-brand{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    
+}
+.navbar-brand:hover{
+    color: aliceblue;
+}
+.nav-link{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.592);
+    margin-left: 45px;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: white;
+}
+.block2{
+    padding: 3% 15%;
+}
+.meet{
+    color: white;
+    font-weight: bold;
+    line-height: 60px;
+}
+.download{
+    margin:3%;
+    width: 160px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.d-icons{
+    font-size: 25px;
+    padding-right: 10px;
+}
+.iphone{
+    /* margin-top: -40px; */
+    margin-left: 10%;
+    transform: rotate(20deg);
+    width: 20%;
+    position: absolute;   
+}
+
+@media(max-width:1000px){
+    .iphone{
+        position: static;
+        transform: rotate(0deg);
+        width: 90%;
+    }
+}
+
+.block3{
+    padding: 7% 15%;
+}
+.icons1{
+    font-size: 80px;
+    padding-bottom: 10% ;
+    color: rgb(237, 63, 104);
+
+}
+.block4divs{
+    text-align: center;
+}
+.icons1:hover{
+    color: rgb(198, 1, 47);
+}
+.block4h2{
+    font-weight: bold;
+    font-size: 35px;
+}
+.block4para{
+    font-size: 20px;
+}
+.block3{
+    background-color: white;
+    position: relative;
+    z-index:1;
+}
+.dblock{
+     width: 15%;
+     border-radius: 50%;
+}
+.carousel-item{
+    text-align: center;
+}
+.block5{
+    background-color:rgb(237, 63, 104) ;
+}
+.carousel-inner{
+    padding: 5%;
+}
+em{
+    font-weight: bold;
+    padding-left: 2%;
+}
+.block7div1{
+    text-align: center;
+    margin-top: 4%;
+}
+.block6{
+    background-color: rgb(237, 63, 104);
+}
+.logos{
+    width: 20%;
+    padding: 0% 2%;
+}
+.block6div{
+    padding:5% 0%;
+    text-align: center;
+}
+.block7div3{
+    text-align: center;
+    
+}
+.height{
+    margin:3%;
+    height: 53vh;
+    
+}
+.cardheader,.card-title{
+    font-weight: bold;
+}
+.btn_align{
+    margin-bottom: 10%;
+}
+.block8{
+    background-color:rgb(237, 63, 104) ;
+}
+.block8div1{
+    text-align: center;
+    padding: 5%;
+}
+.block8h1{
+    font-size:70px;
+    color: white;
+}
+.block8div2{
+    margin-top: 3%;
+}
+.block9{
+    text-align: center;
+    padding: 5% 0%;
+    
+}
+.block9-icons{
+    font-size: 35px;
+    color: black;
+    padding: 4% 2%;
+}
+.block9-icons:hover{
+   color:  rgb(237, 63, 104);
+}
+.block9-a{
+    text-decoration: none;
+}
